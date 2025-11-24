@@ -1,6 +1,6 @@
 # Hi, I'm Ibrahim Reda 👋
 
-## 👨‍💻 Analytics Engineer (In Progress) | Data Analyst
+## 👨‍💻 Data Analyst | Data Engineer (In Progress) 
 I work on transforming raw data into insights using SQL, Python, and BI tools. I'm currently developing strong foundations in Analytics Engineering and Data Engineering.
 
 ---
