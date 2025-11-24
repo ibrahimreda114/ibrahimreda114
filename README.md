@@ -41,23 +41,9 @@ Power BI dashboard showing key KPIs, trends, and insights.
 ### 🔹 **Exploratory Data Analysis Projects**
 Python + Pandas EDA on real datasets.
 
-### 🔹 **SQL Portfolio**
-Multiple SQL queries and business case analysis using SQL Server.
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IbrahimReda&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimReda&layout=compact&theme=github_dark)
-
----
-
-## 🔗 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/ibrahim-reda
-- 📝 Kaggle: https://kaggle.com/ibrahimreda
-- 📧 Email: your.email@example.com
-
----
 
 ## ⭐ Fun Fact
 I believe data tells stories — and I enjoy uncovering them.
